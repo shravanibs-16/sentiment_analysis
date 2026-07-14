@@ -5,12 +5,15 @@ How It Works:
 1️⃣ Data Collection:
 Gathered customer reviews across product categories such as electronics and wearables.
 Cleaned and preprocessed data to remove special characters, stop words, and irrelevant information.
+
 2️⃣ Sentiment Analysis:
 Used VADER and NLTK in Python for sentiment scoring.
 Calculated Positive, Neutral, and Negative scores and the Compound Sentiment Score for an overall sentiment measure.
+
 3️⃣ Product Insights:
 Reviews were categorized, and star ratings were generated.
 Suggestions were dynamically created to address customer pain points and improve product design or functionality.
+
 4️⃣ Visualization:
 Built an interactive dashboard in Power BI to showcase sentiment percentages, feedback distribution, and improvement suggestions through pie charts and visuals.
 
